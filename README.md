@@ -1,12 +1,20 @@
-![Screenshot (74)](https://user-images.githubusercontent.com/77666204/122863084-87e4ab80-d365-11eb-811e-935041a89e2b.png)
-![Screenshot (93)](https://user-images.githubusercontent.com/77666204/122863118-96cb5e00-d365-11eb-83ec-005649fb4a20.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/77666204/122863133-9f239900-d365-11eb-9fa7-de7c94199d15.png)
 # 16 Project 2: Professional Materials
 
 # Last 3 Projects: 
 # The Tech Blog:  https://thetechbl.herokuapp.com/
+
+![Screenshot (101)](https://user-images.githubusercontent.com/77666204/122863133-9f239900-d365-11eb-9fa7-de7c94199d15.png)
+
 # Groups Proejct2:  https://the-right-to-switch-off.herokuapp.com/
+
+![Screenshot (93)](https://user-images.githubusercontent.com/77666204/122863118-96cb5e00-d365-11eb-83ec-005649fb4a20.png)
+
+
+
 # Assignment-Notes: https://assignment-notes.herokuapp.com/
+
+![Screenshot (74)](https://user-images.githubusercontent.com/77666204/122863084-87e4ab80-d365-11eb-811e-935041a89e2b.png)
+
 
 Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
