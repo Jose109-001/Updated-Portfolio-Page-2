@@ -1,5 +1,7 @@
 # 16 Project 2: Professional Materials
 
+### See Resume:  https://jose109-001.github.io/Updated-Portfolio-Page-2/
+
 # Last 3 Projects: 
 # The Tech Blog:  https://thetechbl.herokuapp.com/
 
