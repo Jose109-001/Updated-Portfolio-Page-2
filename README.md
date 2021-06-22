@@ -1,9 +1,9 @@
 # 16 Project 2: Professional Materials
 
-## Last 3 Projects: 
-## The Tech Blog:  https://thetechbl.herokuapp.com/
-## Groups Proejct2:  https://the-right-to-switch-off.herokuapp.com/
-## Assignment-Notes: https://assignment-notes.herokuapp.com/
+# Last 3 Projects: 
+# The Tech Blog:  https://thetechbl.herokuapp.com/
+# Groups Proejct2:  https://the-right-to-switch-off.herokuapp.com/
+# Assignment-Notes: https://assignment-notes.herokuapp.com/
 
 Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
