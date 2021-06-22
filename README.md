@@ -5,7 +5,7 @@
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/77666204/122863133-9f239900-d365-11eb-9fa7-de7c94199d15.png)
 
-# Groups Project-2:  https://the-right-to-switch-off.herokuapp.com/
+# Group Project-2:  https://the-right-to-switch-off.herokuapp.com/
 
 ![Screenshot (93)](https://user-images.githubusercontent.com/77666204/122863118-96cb5e00-d365-11eb-83ec-005649fb4a20.png)
 
